@@ -1,5 +1,5 @@
 
-# Hi, I'm Bader 👋
+# Hi, I'm Bader 
 
 I'm a Software Engineering student at **King Fahd University of Petroleum & Minerals (KFUPM)**.
 
@@ -50,7 +50,7 @@ Becoming a better software engineer by building practical projects, strengthenin
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### [KFUPM Circle](https://github.com/baderbbh/kfupm-circle)
 
@@ -66,7 +66,7 @@ A responsive personal website featuring interactive elements, form validation, a
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.shion.dev/api?username=baderbbh&theme=dark&hide_border=true&show_icons=true)
 
