@@ -11,7 +11,7 @@ Becoming a better software engineer by building practical projects, strengthenin
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 ### Languages
 
