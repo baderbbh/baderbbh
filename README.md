@@ -74,7 +74,7 @@
       </h3>
       <p>
         A clipboard history manager for Windows and macOS
-        that saves text and images locally, with search,
+        that saves copied text and images locally, with search,
         favorites, quick paste, and background monitoring.
       </p>
       <p>
