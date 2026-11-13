@@ -10,9 +10,11 @@
   and improving through hands-on experience.
 </p>
 
+<!-- 
 <p align="center">
   <a href="https://github.com/baderbbh/202152670-baderalbarjas-assignment2">Personal Portfolio</a>
 </p>
+-->
 
 ---
 
