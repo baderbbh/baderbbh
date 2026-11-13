@@ -2,7 +2,7 @@
 <h1 align="center">Hey, I'm Bader 👋</h1>
 
 <p align="center">
-  <strong>Software Engineering Student @ KFUPM</strong>
+  <strong>Senior Software Engineering Student at King Fahd University of Petroleum and Minerals</strong>
 </p>
 
 <p align="center">
