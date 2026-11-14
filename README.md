@@ -15,6 +15,9 @@
   <a href="https://github.com/baderbbh/202152670-baderalbarjas-assignment2">Personal Portfolio</a>
 </p>
 -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=baderbbh&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
 
 ---
 
@@ -145,17 +148,6 @@
 
 ---
 
-### GitHub Activity
-
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=baderbbh&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=baderbbh&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
-
----
 
 <p align="center">
   <sub>Learning. Building. Improving.</sub>
