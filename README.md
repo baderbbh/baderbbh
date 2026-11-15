@@ -15,6 +15,7 @@
   <a href="https://github.com/baderbbh/202152670-baderalbarjas-assignment2">Personal Portfolio</a>
 </p>
 -->
+
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=baderbbh&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
@@ -26,7 +27,7 @@
 **Languages & Web**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,python,java,c,cpp,cs,dart,html,css&theme=dark" height="48" alt="Programming Languages"/>
+  <img src="https://skillicons.dev/icons?i=js,python,java,c,cpp,cs,dart,rust,html,css&theme=dark" height="48" alt="Programming Languages"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" width="48" height="48" alt="R"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="48" height="48" alt="SQL"/>
 </p>
@@ -121,6 +122,38 @@
       </p>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>
+        <a href="https://github.com/baderbbh/dwell">Dwell</a>
+      </h3>
+      <p>
+        A desktop storage analyzer that explores folder sizes,
+        identifies large files, and saves snapshots to track
+        storage changes over time.
+      </p>
+      <p>
+        <code>Rust</code>
+        <code>Tauri</code>
+        <code>JavaScript</code>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>
+        <a href="https://github.com/baderbbh/verso">Verso</a>
+      </h3>
+      <p>
+        A local PDF comparison tool that detects text changes
+        between documents, highlights differences, and exports
+        comparison reports.
+      </p>
+      <p>
+        <code>Java</code>
+        <code>Swing</code>
+        <code>Apache PDFBox</code>
+      </p>
+    </td>
+  </tr>
 </table>
 
 ---
@@ -130,7 +163,7 @@
 <table>
   <tr>
     <td width="100%" valign="top">
-      <h3>Syntra - In Development</sub></h3>
+      <h3>Syntra - In Development</h3>
       <p>
         A visual Java code builder that lets users create
         programs using interactive blocks instead of writing
@@ -147,7 +180,6 @@
 </table>
 
 ---
-
 
 <p align="center">
   <sub>Learning. Building. Improving.</sub>
