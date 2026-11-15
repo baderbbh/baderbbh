@@ -77,11 +77,33 @@
 
 ---
 
+
 ### Highlighted Project
 
-**[Madar](https://madar-p4ti.onrender.com)** - An academic planning platform for KFUPM students, featuring coursework tracking, degree progress, GPA calculations, and semester planning.
+<table>
+  <tr>
+    <td width="100%" valign="top">
+      <h3>
+        <a href="https://madar-p4ti.onrender.com">Madar</a>
+      </h3>
+      <p>
+        An academic planning platform for KFUPM students,
+        featuring coursework tracking, degree progress,
+        GPA calculations, and semester planning.
+      </p>
+      <p>
+        <code>HTML</code>
+        <code>CSS</code>
+        <code>JavaScript</code>
+        <code>Node.js</code>
+        <code>SQLite</code>
+        <code>PostgreSQL</code>
+        <code>Supabase</code>
+      </p>
+    </td>
+  </tr>
+</table>
 
-`JavaScript` · `Node.js` · `PostgreSQL`
 
 ---
 
