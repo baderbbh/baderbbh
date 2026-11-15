@@ -10,7 +10,7 @@
   and improving through hands-on experience.
 </p>
 
-<!-- 
+<!--
 <p align="center">
   <a href="https://github.com/baderbbh/202152670-baderalbarjas-assignment2">Personal Portfolio</a>
 </p>
@@ -57,104 +57,31 @@
 
 ### Featured Projects
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>
-        <a href="https://madar-p4ti.onrender.com">Madar</a>
-      </h3>
-      <p>
-        An academic planning platform for KFUPM students,
-        featuring coursework tracking, degree progress,
-        GPA calculations, and semester planning.
-      </p>
-      <p>
-        <code>JavaScript</code>
-        <code>Node.js</code>
-        <code>PostgreSQL</code>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>
-        <a href="https://github.com/baderbbh/multicopy">MultiCopy</a>
-      </h3>
-      <p>
-        A clipboard history manager for Windows and macOS
-        that saves copied text and images locally, with search,
-        favorites, quick paste, and background monitoring.
-      </p>
-      <p>
-        <code>Python</code>
-        <code>PySide6</code>
-        <code>SQLite</code>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>
-        <a href="https://github.com/baderbbh/tuck">Tuck</a>
-      </h3>
-      <p>
-        A browser extension for Chrome, Edge, Brave,
-        and Safari that saves, organizes, and restores
-        tab sessions.
-      </p>
-      <p>
-        <code>JavaScript</code>
-        <code>HTML</code>
-        <code>CSS</code>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>
-        <a href="https://github.com/baderbbh/word-collection">Word Collection</a>
-      </h3>
-      <p>
-        A local word collection powered by a custom AVL tree,
-        featuring spelling suggestions, word management,
-        and an interactive tree visualization.
-      </p>
-      <p>
-        <code>Java</code>
-        <code>HTML</code>
-        <code>JavaScript</code>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>
-        <a href="https://github.com/baderbbh/dwell">Dwell</a>
-      </h3>
-      <p>
-        A desktop storage analyzer that explores folder sizes,
-        identifies large files, and saves snapshots to track
-        storage changes over time.
-      </p>
-      <p>
-        <code>Rust</code>
-        <code>Tauri</code>
-        <code>JavaScript</code>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>
-        <a href="https://github.com/baderbbh/verso">Verso</a>
-      </h3>
-      <p>
-        A local PDF comparison tool that detects text changes
-        between documents, highlights differences, and exports
-        comparison reports.
-      </p>
-      <p>
-        <code>Java</code>
-        <code>Swing</code>
-        <code>Apache PDFBox</code>
-      </p>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://github.com/baderbbh/multicopy">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=baderbbh&repo=multicopy&theme=tokyonight&hide_border=true&description_lines_count=2" width="49%" alt="MultiCopy"/>
+  </a>
+  <a href="https://github.com/baderbbh/tuck">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=baderbbh&repo=tuck&theme=tokyonight&hide_border=true&description_lines_count=2" width="49%" alt="Tuck"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/baderbbh/word-collection">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=baderbbh&repo=word-collection&theme=tokyonight&hide_border=true&description_lines_count=2" width="49%" alt="Word Collection"/>
+  </a>
+  <a href="https://github.com/baderbbh/dwell">
+    <img src="https://github-stats-extended.vercel.app/api/pin/?username=baderbbh&repo=dwell&theme=tokyonight&hide_border=true&description_lines_count=2" width="49%" alt="Dwell"/>
+  </a>
+</p>
+
+---
+
+### Highlighted Project
+
+**[Madar](https://madar-p4ti.onrender.com)** - An academic planning platform for KFUPM students, featuring coursework tracking, degree progress, GPA calculations, and semester planning.
+
+`JavaScript` · `Node.js` · `PostgreSQL`
 
 ---
 
