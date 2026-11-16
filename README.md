@@ -100,6 +100,7 @@
         <code>PostgreSQL</code>
         <code>Supabase</code>
       </p>
+      <p></p>
     </td>
   </tr>
 </table>
@@ -124,6 +125,7 @@
         <code>Visual Programming</code>
         <code>Code Generation</code>
       </p>
+      <p></p>
     </td>
   </tr>
 </table>
