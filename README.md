@@ -1,4 +1,3 @@
-
 <h1 align="center">Hey, I'm Bader 👋</h1>
 
 <p align="center">
